@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/static/developer.gif" alt="Supratim Das" />
+</h1>
 
-<!--
-**supratim94336/supratim94336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋👋
+I'm Supratim, a 30 years old web developer from India.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 Python
+- 🔋 SQL
+- 🎡 Docker, Kubernetes
+- ⛈️ AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@supratim94336](https://twitter.com/supratim94336) on Twitter
+- [@supratim_insta_life](https://instagram.com/supratim_insta_life) on Instagram
+- [supratim-das-8590087b]((https://www.linkedin.com/in/supratim-das-8590087b/) on Linkedin
