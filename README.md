@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/supratim94336/supratim94336/master/developer.jpeg" alt="Supratim Das" width="512" height="256" />
-</h1>
-
 ## Hey! 👋👋
 I'm Supratim, a 30 years old web developer from India.
 
@@ -11,7 +7,15 @@ I'm Supratim, a 30 years old web developer from India.
 - 🎡 Docker, Kubernetes
 - ⛈️ AWS
 
-## Contact
-- [@supratim94336](https://twitter.com/supratim94336) on Twitter
-- [@supratim_insta_life](https://instagram.com/supratim_insta_life) on Instagram
-- [supratim-das-8590087b](https://www.linkedin.com/in/supratim-das-8590087b/) on Linkedin
+<p align="center">
+    <a href="https://app.slack.com/client/T04SHSQPC/C01ELH757GT">
+    <img src="static/linkedin.png" width="32" height="32">
+    </a>
+    <a href="https://kibana-live-fra.tech26.de/goto/d07f77ed53d28ae6c63d9d88e2cb21e1" target="_blank">
+    <img src="static/twitter.png" width="32" height="32">
+    </a>
+    <a href="https://sonarqube-default-fra.tech26.de/dashboard?id=baku"
+    target="_blank">
+    <img src="static/instagram.png" width="32" height="32">
+    </a>
+</p>
