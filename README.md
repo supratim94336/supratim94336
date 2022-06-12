@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/static/developer.gif" alt="Supratim Das" />
+  <img src="https://raw.githubusercontent.com/supratim94336/supratim94336/master/developer.jpeg" alt="Supratim Das" />
 </h1>
 
 ## Hey! 👋👋
