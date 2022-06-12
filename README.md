@@ -14,4 +14,4 @@ I'm Supratim, a 30 years old web developer from India.
 ## Contact
 - [@supratim94336](https://twitter.com/supratim94336) on Twitter
 - [@supratim_insta_life](https://instagram.com/supratim_insta_life) on Instagram
-- [supratim-das-8590087b]((https://www.linkedin.com/in/supratim-das-8590087b/) on Linkedin
+- [supratim-das-8590087b](https://www.linkedin.com/in/supratim-das-8590087b/) on Linkedin
