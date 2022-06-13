@@ -1,5 +1,7 @@
-## Hey! 👋👋
-I'm Supratim, a 30 years old web developer from India.
+<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="600">
+
+## Hey! 👋
+I'm Supratim, a Data Engineer working for N26 at the Berlin HQ.
 
 ## Skills
 - 👨‍💻 Python
@@ -8,14 +10,15 @@ I'm Supratim, a 30 years old web developer from India.
 - ⛈️ AWS
 
 <p align="center">
-    <a href="https://app.slack.com/client/T04SHSQPC/C01ELH757GT">
+    <a href="https://www.linkedin.com/in/supratim-das-8590087b/">
     <img src="static/linkedin.png" width="32" height="32">
     </a>
-    <a href="https://kibana-live-fra.tech26.de/goto/d07f77ed53d28ae6c63d9d88e2cb21e1" target="_blank">
+    <a href="https://twitter.com/supratim94336">
     <img src="static/twitter.png" width="32" height="32">
     </a>
-    <a href="https://sonarqube-default-fra.tech26.de/dashboard?id=baku"
-    target="_blank">
+    <a href="https://www.instagram.com/supratim_insta_life/">
     <img src="static/instagram.png" width="32" height="32">
     </a>
 </p>
+
+<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="600">
