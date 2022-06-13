@@ -1,4 +1,6 @@
-<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" align="center" width="600">
+<p align="center">
+<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="600">
+</p>
 
 ## Hey! 👋
 I'm Supratim, a Data Engineer working for N26 at the Berlin HQ.
@@ -20,5 +22,6 @@ I'm Supratim, a Data Engineer working for N26 at the Berlin HQ.
     <img src="static/instagram.png" width="32" height="32">
     </a>
 </p>
-
-<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" align="center" width="600">
+<p align="center">
+<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="600">
+</p>
