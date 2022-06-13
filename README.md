@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="600">
+<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="900">
 </p>
 
 ## Hey! 👋
@@ -23,5 +23,5 @@ I'm Supratim, a Data Engineer working for N26 at the Berlin HQ.
     </a>
 </p>
 <p align="center">
-<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="600">
+<img src="https://c.tenor.com/wN-FPJJTz28AAAAC/rgb-rainbow.gif" width="900">
 </p>
